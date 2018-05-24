@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.5)  24 MAY 2018 11:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.5)  24 MAY 2018 12:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"Alexis Bergès - CV - fr.tex"
-(./Alexis Bergès - CV - fr.tex
+**"Alexis Bergès - CV - eng.tex"
+(./Alexis Bergès - CV - eng.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -82,8 +82,8 @@ Package: vmargin 2004/07/15 V2.5 set document margins (VK)
 Package: vmargin 2004/07/15 V2.5 set document margins (VK)
 \PaperWidth=\dimen106
 \PaperHeight=\dimen107
-) (./Alexis Bergès - CV - fr.aux)
-\openout1 = `"Alexis Bergès - CV - fr.aux"'.
+) (./Alexis Bergès - CV - eng.aux)
+\openout1 = `"Alexis Bergès - CV - eng.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
@@ -122,47 +122,49 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 66--103
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 109--140
-[][]
- []
-
-
-Overfull \hbox (17.0pt too wide) in paragraph at lines 145--155
+Overfull \hbox (17.0pt too wide) in paragraph at lines 110--143
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
+Overfull \hbox (17.0pt too wide) in paragraph at lines 148--157
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 []\OT1/cmr/m/n/10.95 2009-
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 162--177
+Overfull \hbox (17.0pt too wide) in paragraph at lines 165--180
 [][] 
  []
 
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./Alexis Bergès - CV - fr.aux) ) 
+(./Alexis Bergès - CV - eng.aux) ) 
 Here is how much of TeX's memory you used:
- 1618 strings out of 492995
- 22285 string characters out of 6132705
- 96659 words of memory out of 5000000
- 5212 multiletter control sequences out of 15000+600000
+ 1616 strings out of 492995
+ 22278 string characters out of 6132705
+ 95659 words of memory out of 5000000
+ 5210 multiletter control sequences out of 15000+600000
  7469 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,10n,30p,385b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+ 28i,10n,30p,425b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmtt10.pfb>
-Output written on "Alexis Bergès - CV - fr.pdf" (1 page, 74464 bytes).
+public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmtt10.pfb>
+Output written on "Alexis Bergès - CV - eng.pdf" (1 page, 90168 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
